@@ -36,7 +36,7 @@ if AIOREDIS_MAJOR_VERSION >= 2:
             response = await self.encode_decode_response(response)
             return response
 
-        def encode_decode_response(self, response):
+        async def encode_decode_response(self, response):
             if self._encoding != _NOTSET:
                 if self._encoding is None:
                     if isinstance(response, list):
