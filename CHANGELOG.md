@@ -1,6 +1,11 @@
 # CHANGELOG
 
+## 1.0.0 (2021-11-18)
+
+* Add aioredis 2.x support [#546](https://github.com/aio-libs/aiocache/pull/546) - laggardkernel
+
 * Use `self` instead of hardcoded `SimpleMemoryBackend` to refer to cache and handlers [#551](https://github.com/aio-libs/aiocache/pull/551) - Andrey Semakin
+
 
 ## 0.11.1 (2019-07-31)
 
