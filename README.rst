@@ -10,10 +10,10 @@ Asyncio cache supporting multiple backends (memory, redis and memcached).
   :target: https://codecov.io/gh/argaen/aiocache
 
 .. image:: https://badge.fury.io/py/aiocache.svg
-  :target: https://pypi.python.org/pypi/aiocache
+  :target: https://pypi.org/project/seoservice2020-aiocache/
 
 .. image:: https://img.shields.io/pypi/pyversions/aiocache.svg
-  :target: https://pypi.python.org/pypi/aiocache
+  :target: https://pypi.org/project/seoservice2020-aiocache/
 
 .. image:: https://api.codacy.com/project/badge/Grade/96f772e38e63489ca884dbaf6e9fb7fd
   :target: https://www.codacy.com/app/argaen/aiocache
