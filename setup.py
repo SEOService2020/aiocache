@@ -19,10 +19,10 @@ with open('README.rst', 'rt', encoding='utf8') as f:
 
 
 setup(
-    name='aiocache',
+    name='seoservice2020-aiocache',
     version=version,
     author='Manuel Miranda',
-    url='https://github.com/aio-libs/aiocache',
+    url='https://github.com/SEOService2020/aiocache',
     author_email='manu.mirandad@gmail.com',
     description='multi backend asyncio cache',
     long_description=readme,
